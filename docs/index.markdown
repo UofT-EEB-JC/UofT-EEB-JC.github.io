@@ -5,7 +5,10 @@
 layout: home
 ---
 
-![toronto](images/toronto.jpg)
+<figure>
+<img src="/images/uoft.jpg" alt="UofT">
+<figcaption>Shutterstock</figcaption>
+</figure>  
 
 Welcome to the webpage for the [UofT EEB](https://eeb.utoronto.ca/) JC! We discuss papers in ecology and evolution. All grad students, postdocs, and faculty in EEB are welcome and encouraged to attend and sign up to lead. Hope to see you at the next meeting! 
 
