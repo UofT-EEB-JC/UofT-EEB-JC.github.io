@@ -23,8 +23,8 @@ Tuesday noon, ESC 3056
 | Oct 18 | Katja Kasimatis | TBD |
 | Oct 25 | Puneeth Deraje | TBD |
 | Nov 1 | Linyi Zhang | TBD |
-| Nov 8 | | |
-| Nov 15 | | |
+| Nov 8 | Reading week | - |
+| Nov 15 | Megan Bontrager | TBD |
 | Nov 22 | | |
 | Nov 29 | | | 
 | Dec 6 | | |
