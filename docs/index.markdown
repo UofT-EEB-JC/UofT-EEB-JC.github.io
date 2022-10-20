@@ -21,10 +21,10 @@ Tuesday noon, ESC 3056
 | Oct 4 | Stephen Wright | [Genetic diversity loss in the Anthropocene](https://doi.org/10.1126/science.abn5642)|
 | Oct 11 | Matt Osmond | [ Adaptive divergence and the evolution of hybrid trait mismatch in threespine stickleback](https://doi.org/10.1002/evl3.264) | 
 | Oct 18 | Katja Kasimatis | [Island-specific evolution of a sex-primed autosome in a sexual planarian](https://www.nature.com/articles/s41586-022-04757-3) |
-| Oct 25 | Puneeth Deraje | TBD |
+| Oct 25 | Puneeth Deraje | [Environmental complexity is more important than mutation in driving the evolution of latent novel traits in E. coli](https://www.nature.com/articles/s41467-022-33634-w) |
 | Nov 1 | Linyi Zhang | TBD |
 | Nov 8 | Reading week | - |
 | Nov 15 | Megan Bontrager | TBD |
-| Nov 22 | | |
-| Nov 29 | | | 
-| Dec 6 | | |
+| Nov 22 | Mark Hibbins| TBD |
+| Nov 29 | Katie Maunder | TBD | 
+| Dec 6 | Bianca Sacchi | TBD |
