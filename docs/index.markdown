@@ -14,7 +14,7 @@ Welcome to the webpage for the [UofT EEB](https://eeb.utoronto.ca/) JC! We discu
 
 ## Fall 2022
 
-Tuesday noon, ESC 3056
+Tuesday 12:10pm, ESC 3056
 
 | Date | Leader | Paper |
 |------|--------|-------|
