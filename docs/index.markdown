@@ -24,7 +24,7 @@ Tuesday 12:10pm, ESC 3056
 | Oct 25 | Puneeth Deraje | [Environmental complexity is more important than mutation in driving the evolution of latent novel traits in E. coli](https://www.nature.com/articles/s41467-022-33634-w) |
 | Nov 1 | Linyi Zhang | [Chromosome inversions, local adaptation and speciation](https://doi.org/10.1534/genetics.105.047985) |
 | Nov 8 | Reading week | - |
-| Nov 15 | Megan Bontrager | TBD |
+| Nov 15 | Megan Bontrager | [Ancient and recent introgression shape the evolutionary history of pollinator adaptation and speciation in a model monkeyflower radiation (Mimulus section Erythranthe)](https://doi.org/10.1371/journal.pgen.1009095) |
 | Nov 22 | Mark Hibbins| TBD |
 | Nov 29 | Katie Maunder | TBD | 
 | Dec 6 | Bianca Sacchi | TBD |
