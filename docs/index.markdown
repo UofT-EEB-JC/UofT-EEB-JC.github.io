@@ -27,4 +27,4 @@ Tuesday 12:10pm, ESC 3056
 | Nov 15 | Megan Bontrager | [Ancient and recent introgression shape the evolutionary history of pollinator adaptation and speciation in a model monkeyflower radiation (Mimulus section Erythranthe)](https://doi.org/10.1371/journal.pgen.1009095) |
 | Nov 22 | Mark Hibbins | [Repeated turnovers keep sex chromosomes young in willows](https://doi.org/10.1186/s13059-022-02769-w) |
 | Nov 29 | Katie Maunder | [Natural selection maintains species despite frequent hybridization in the desert shrub Encelia](https://www.pnas.org/doi/abs/10.1073/pnas.2001337117) |
-| Dec 6 | Bianca Sacchi | TBD |
+| Dec 6 | Bianca Sacchi | [A complex evolutionary history of genetic barriers to gene flow in hybridizing warblers](https://www.biorxiv.org/content/10.1101/2022.11.14.516535v1) |
