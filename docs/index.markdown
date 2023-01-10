@@ -12,6 +12,24 @@ layout: home
 
 Welcome to the webpage for the [UofT EEB](https://eeb.utoronto.ca/) JC! We discuss papers in ecology and evolution. All grad students, postdocs, and faculty in EEB are welcome and encouraged to attend and sign up to lead. Hope to see you at the next meeting! 
 
+## Winter 2023
+
+Tuesday 12:10pm, ESC 3056
+
+| Date | Leader | Paper |
+|------|--------|-------|
+| Jan 17 | Bianca Sacchi | [A complex evolutionary history of genetic barriers to gene flow in hybridizing warblers](https://www.biorxiv.org/content/10.1101/2022.11.14.516535v1.abstract) |
+| Jan 24 | | |
+| Jan 31 | | |
+| Feb 7 | | |
+| Feb 14 | | |
+| Feb 21 | | |
+| Feb 28 | | |
+| Mar 7 | | |
+| Mar 14 | | |
+| Mar 28 | | |
+| Apr 4 | | |
+
 ## Fall 2022
 
 Tuesday 12:10pm, ESC 3056
