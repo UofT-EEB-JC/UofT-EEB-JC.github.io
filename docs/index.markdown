@@ -19,12 +19,12 @@ Tuesday 12:10pm, ESC 3056
 | Date | Leader | Paper |
 |------|--------|-------|
 | Jan 17 | Bianca Sacchi | [A complex evolutionary history of genetic barriers to gene flow in hybridizing warblers](https://www.biorxiv.org/content/10.1101/2022.11.14.516535v1.abstract) |
-| Jan 24 | | |
+| Jan 24 | Matt Osmond | |
 | Jan 31 | | |
 | Feb 7 | | |
 | Feb 14 | | |
 | Feb 21 | Reading week | - |
-| Feb 28 | | |
+| Feb 28 | Louisa Bartkovich | |
 | Mar 7 | | |
 | Mar 14 | | |
 | Mar 21 | | |
