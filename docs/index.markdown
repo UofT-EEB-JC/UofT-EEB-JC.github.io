@@ -23,10 +23,11 @@ Tuesday 12:10pm, ESC 3056
 | Jan 31 | | |
 | Feb 7 | | |
 | Feb 14 | | |
-| Feb 21 | | |
+| Feb 21 | Reading week | - |
 | Feb 28 | | |
 | Mar 7 | | |
 | Mar 14 | | |
+| Mar 21 | | |
 | Mar 28 | | |
 | Apr 4 | | |
 
