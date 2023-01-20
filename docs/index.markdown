@@ -28,7 +28,7 @@ Tuesday 12:10pm, ESC 3056
 | Mar 7 | | |
 | Mar 14 | | |
 | Mar 21 | | |
-| Mar 28 | | |
+| Mar 28 | Mete Yuksel | |
 | Apr 4 | | |
 
 ## Fall 2022
