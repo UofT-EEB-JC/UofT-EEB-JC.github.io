@@ -22,12 +22,12 @@ Tuesday 12:10pm, ESC 3056
 | Jan 24 | Matt Osmond | [Wavelet characterization of spatial pattern in allele frequency](https://www.biorxiv.org/content/10.1101/2022.03.21.485229v2)|
 | Jan 31 | | |
 | Feb 7 | | |
-| Feb 14 | | |
+| Feb 14 | Megan Bontrager | |
 | Feb 21 | Reading week | - |
 | Feb 28 | Louisa Bartkovich | |
 | Mar 7 | | |
-| Mar 14 | | |
-| Mar 21 | | |
+| Mar 14 | Katie Maunder | |
+| Mar 21 | Alice | |
 | Mar 28 | Mete Yuksel | |
 | Apr 4 | | |
 
