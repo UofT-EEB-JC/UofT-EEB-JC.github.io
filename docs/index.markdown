@@ -27,7 +27,7 @@ Tuesday 12:10pm, ESC 3056
 | Feb 28 | Louisa Bartkovich | |
 | Mar 7 | | |
 | Mar 14 | Katie Maunder | |
-| Mar 21 | Alice | |
+| Mar 21 | Alice Fairnie | |
 | Mar 28 | Mete Yuksel | |
 | Apr 4 | | |
 
