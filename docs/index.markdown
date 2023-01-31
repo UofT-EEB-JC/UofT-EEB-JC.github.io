@@ -20,15 +20,15 @@ Tuesday 12:10pm, ESC 3056
 |------|--------|-------|
 | Jan 17 | Bianca Sacchi | [A complex evolutionary history of genetic barriers to gene flow in hybridizing warblers](https://www.biorxiv.org/content/10.1101/2022.11.14.516535v1.abstract) |
 | Jan 24 | Matt Osmond | [Wavelet characterization of spatial pattern in allele frequency](https://www.biorxiv.org/content/10.1101/2022.03.21.485229v2)|
-| Jan 31 | Tomo Parins-Fukuchi | |
-| Feb 7 | | |
-| Feb 14 | Megan Bontrager | |
+| Jan 31 | Hiatus | - |
+| Feb 7 | Tomo Parins-Fukuchi | TBD |
+| Feb 14 | Megan Bontrager | TBD |
 | Feb 21 | Reading week | - |
-| Feb 28 | Louisa Bartkovich | |
-| Mar 7 | | |
-| Mar 14 | Katie Maunder | |
-| Mar 21 | Alice Fairnie | |
-| Mar 28 | Mete Yuksel | |
+| Feb 28 | Louisa Bartkovich | TBD |
+| Mar 7 | | TBD |
+| Mar 14 | Katie Maunder | TBD |
+| Mar 21 | Alice Fairnie | TBD |
+| Mar 28 | Mete Yuksel | TBD |
 | Apr 4 | | |
 
 ## Fall 2022
