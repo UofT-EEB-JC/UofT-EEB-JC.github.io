@@ -21,7 +21,7 @@ Tuesday 12:10pm, ESC 3056
 | Jan 17 | Bianca Sacchi | [A complex evolutionary history of genetic barriers to gene flow in hybridizing warblers](https://www.biorxiv.org/content/10.1101/2022.11.14.516535v1.abstract) |
 | Jan 24 | Matt Osmond | [Wavelet characterization of spatial pattern in allele frequency](https://www.biorxiv.org/content/10.1101/2022.03.21.485229v2)|
 | Jan 31 | Hiatus | - |
-| Feb 7 | Tomo Parins-Fukuchi | TBD |
+| Feb 7 | Tomo Parins-Fukuchi | [Machine learning identifies ecological selectivity patterns across the end-Permian mass extinction](https://www.cambridge.org/core/journals/paleobiology/article/machine-learning-identifies-ecological-selectivity-patterns-across-the-endpermian-mass-extinction/3827AF46B77BF2BC8917437FB041DABA) |
 | Feb 14 | Megan Bontrager | TBD |
 | Feb 21 | Reading week | - |
 | Feb 28 | Louisa Bartkovich | TBD |
