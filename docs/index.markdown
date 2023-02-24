@@ -24,7 +24,7 @@ Tuesday 12:10pm, ESC 3056
 | Feb 7 | Tomo Parins-Fukuchi | [Machine learning identifies ecological selectivity patterns across the end-Permian mass extinction](https://www.cambridge.org/core/journals/paleobiology/article/machine-learning-identifies-ecological-selectivity-patterns-across-the-endpermian-mass-extinction/3827AF46B77BF2BC8917437FB041DABA) |
 | Feb 14 | Megan Bontrager | [Phenotype–environment mismatch errors enhance lifetime fitness in wild red squirrels](https://www.science.org/doi/full/10.1126/science.abn0665) |
 | Feb 21 | Reading week | - |
-| Feb 28 | Louisa Bartkovich | TBD |
+| Feb 28 | Louisa Bartkovich | [Resampling alpine herbarium records reveals changes in plant traits over space and time](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.14062) |
 | Mar 7 | | TBD |
 | Mar 14 | Katie Maunder | TBD |
 | Mar 21 | Alice Fairnie | TBD |
