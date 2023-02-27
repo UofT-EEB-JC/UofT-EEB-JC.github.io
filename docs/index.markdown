@@ -25,11 +25,11 @@ Tuesday 12:10pm, ESC 3056
 | Feb 14 | Megan Bontrager | [Phenotype–environment mismatch errors enhance lifetime fitness in wild red squirrels](https://www.science.org/doi/full/10.1126/science.abn0665) |
 | Feb 21 | Reading week | - |
 | Feb 28 | Louisa Bartkovich | [Resampling alpine herbarium records reveals changes in plant traits over space and time](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.14062) |
-| Mar 7 | | TBD |
+| Mar 7 | Alice Fairnie | TBD |
 | Mar 14 | Katie Maunder | TBD |
-| Mar 21 | Alice Fairnie | TBD |
+| Mar 21 | - | - |
 | Mar 28 | Mete Yuksel | TBD |
-| Apr 4 | | |
+| Apr 4 | - | - |
 
 ## Fall 2022
 
