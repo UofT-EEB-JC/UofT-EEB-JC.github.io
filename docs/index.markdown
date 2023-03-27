@@ -28,7 +28,7 @@ Tuesday 12:10pm, ESC 3056
 | Mar 7 | Alice Fairnie | [Taxon-specific, phased siRNAs underlie a speciation locus in monkeyflowers](https://www.science.org/stoken/author-tokens/ST-1017/full) |
 | Mar 14 | Katie Maunder | [Heterozygote advantage and pleiotropy contribute to intraspecific color trait variability](https://academic.oup.com/evolut/article/76/10/2389/6966367)
 | Mar 21 | Mete Yuksel | [Evolutionary dynamics of bacteria in the gut microbiome within and across hosts](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000102) |
-| Mar 28 | - | - |
+| Mar 28 | Matt Osmond | [Phylogenomic analyses of echinoid diversification prompt a re-evaluation of their fossil record](https://elifesciences.org/articles/72460) |
 | Apr 4 | - | - |
 
 ## Fall 2022
