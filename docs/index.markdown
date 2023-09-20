@@ -24,7 +24,7 @@ Wednesday 11:10am, ESC 1014
 | Oct 18 | - | - |
 | Oct 25 | - | - |
 | Nov 1 | - | - |
-| Nov 8 | - | - |
+| Nov 8 | Reading week | - |
 | Nov 15 | - | - |
 | Nov 22 | Hiatus | - |
 | Nov 29 | - | - |
