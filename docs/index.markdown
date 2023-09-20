@@ -12,6 +12,25 @@ layout: home
 
 Welcome to the webpage for the [UofT EEB](https://eeb.utoronto.ca/) JC! We discuss papers in ecology and evolution. All grad students, postdocs, and faculty in EEB are welcome and encouraged to attend and sign up to lead. Hope to see you at the next meeting! 
 
+## Fall 2023
+
+Wednesday 11:10am, ESC 1014
+
+| Date | Leader | Paper |
+|------|--------|-------|
+| Sept 27 | - | - |
+| Oct 4 | - | - |
+| Oct 11 | - | - |
+| Oct 18 | - | - |
+| Oct 25 | - | - |
+| Nov 1 | - | - |
+| Nov 8 | - | - |
+| Nov 15 | - | - |
+| Nov 22 | Hiatus | - |
+| Nov 29 | - | - |
+| Dec 6 | - | - |
+| Dec 13 | - | - |
+
 ## Winter 2023
 
 Tuesday 12:10pm, ESC 3056
