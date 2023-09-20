@@ -18,7 +18,7 @@ Wednesday 11:10am, ESC 1014
 
 | Date | Leader | Paper |
 |------|--------|-------|
-| Sept 27 | - | - |
+| Sept 27 | MArk Hibbins | [Rapid turnover and evolution of sex-determining regions in *Sebastes* rockfishes](https://onlinelibrary.wiley.com/doi/10.1111/mec.17090) |
 | Oct 4 | - | - |
 | Oct 11 | - | - |
 | Oct 18 | - | - |
