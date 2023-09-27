@@ -19,13 +19,13 @@ Wednesday 11:10am, ESC 1014
 | Date | Leader | Paper |
 |------|--------|-------|
 | Sept 27 | Mark Hibbins | [Rapid turnover and evolution of sex-determining regions in *Sebastes* rockfishes](https://onlinelibrary.wiley.com/doi/10.1111/mec.17090) |
-| Oct 4 | - | - |
-| Oct 11 | - | - |
+| Oct 4 | Matt Osmond | - |
+| Oct 11 | Puneeth Deraje | - |
 | Oct 18 | - | - |
 | Oct 25 | - | - |
-| Nov 1 | - | - |
+| Nov 1 | Katie Maunder | - |
 | Nov 8 | Reading week | - |
-| Nov 15 | - | - |
+| Nov 15 | Else Mikkelsen | - |
 | Nov 22 | Hiatus | - |
 | Nov 29 | - | - |
 | Dec 6 | - | - |
