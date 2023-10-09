@@ -20,7 +20,7 @@ Wednesday 11:10am, ESC 1014
 |------|--------|-------|
 | Sept 27 | Mark Hibbins | [Rapid turnover and evolution of sex-determining regions in *Sebastes* rockfishes](https://onlinelibrary.wiley.com/doi/10.1111/mec.17090) |
 | Oct 4 | Matt Osmond | [Community-wide genome sequencing reveals 30 years of Darwin's finch evolution](https://www.science.org/doi/full/10.1126/science.adf6218) |
-| Oct 11 | Puneeth Deraje | - |
+| Oct 11 | Puneeth Deraje | [Why do hybrids turn down sex?](https://doi.org/10.1093/evolut/qpad129) |
 | Oct 18 | - | - |
 | Oct 25 | Amanda Peake | - |
 | Nov 1 | Katie Maunder | - |
