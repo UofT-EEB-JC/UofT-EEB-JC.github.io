@@ -23,11 +23,11 @@ Wednesday 11:10am, ESC 1014
 | Oct 11 | Puneeth Deraje | [Why do hybrids turn down sex?](https://doi.org/10.1093/evolut/qpad129) |
 | Oct 18 | Hiatus | - |
 | Oct 25 | Amanda Peake | [Genetic architecture of flowering time differs between populations with contrasting demographic and selective histores](https://doi.org/10.1093/molbev/msad185) |
-| Nov 1 | Katie Maunder | - |
+| Nov 1 | Bianca Sacchi | [A few essential genetic loci distinguish *Penstemon* species with flowers adapted to pollination by bees or hummingbirds](https://doi.org/10.1371/journal.pbio.3002294) |
 | Nov 8 | Reading week | - |
 | Nov 15 | Else Mikkelsen | - |
 | Nov 22 | Hiatus | - |
-| Nov 29 | Bianca Sacchi | [A few essential genetic loci distinguish *Penstemon* species with flowers adapted to pollination by bees or hummingbirds](https://doi.org/10.1371/journal.pbio.3002294) |
+| Nov 29 | Katie Maunder |  |
 | Dec 6 | - | - |
 | Dec 13 | - | - |
 
