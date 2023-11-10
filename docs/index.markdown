@@ -25,7 +25,7 @@ Wednesday 11:10am, ESC 1014
 | Oct 25 | Amanda Peake | [Genetic architecture of flowering time differs between populations with contrasting demographic and selective histores](https://doi.org/10.1093/molbev/msad185) |
 | Nov 1 | Bianca Sacchi | [A few essential genetic loci distinguish *Penstemon* species with flowers adapted to pollination by bees or hummingbirds](https://doi.org/10.1371/journal.pbio.3002294) |
 | Nov 8 | Reading week | - |
-| Nov 15 | Else Mikkelsen | - |
+| Nov 15 | Else Mikkelsen | [The origin and maintenance of supergenes contributing to ecological adaptation in Atlantic herring](https://www.biorxiv.org/content/10.1101/2023.10.23.562618v2) |
 | Nov 22 | Hiatus | - |
 | Nov 29 | Katie Maunder |  |
 | Dec 6 | - | - |
