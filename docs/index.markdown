@@ -27,7 +27,7 @@ Wednesday 11:10am, ESC 1014
 | Nov 8 | Reading week | - |
 | Nov 15 | Else Mikkelsen | [The origin and maintenance of supergenes contributing to ecological adaptation in Atlantic herring](https://www.biorxiv.org/content/10.1101/2023.10.23.562618v2) |
 | Nov 22 | Hiatus | - |
-| Nov 29 | Katie Maunder |  |
+| Nov 29 | Katie Maunder | [Does urbanization lead to parallel demographic shifts across the world in a cosmopolitan plant?](https://www.biorxiv.org/content/10.1101/2023.08.14.552623v1.full) |
 | Dec 6 | - | - |
 | Dec 13 | - | - |
 
