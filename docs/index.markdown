@@ -29,7 +29,7 @@ Wednesday 11:10am, ESC 1014
 | Nov 22 | Hiatus | - |
 | Nov 29 | Katie Maunder | [Does urbanization lead to parallel demographic shifts across the world in a cosmopolitan plant?](https://www.biorxiv.org/content/10.1101/2023.08.14.552623v1.full) |
 | Dec 6 | - | - |
-| Dec 13 | - | - |
+| Dec 13 | Mete Yuksel | [Urbanization and humidity shape the intensity of influenza epidemics in U.S cities](https://doi.org/10.1126/science.aat6030) |
 
 ## Winter 2023
 
