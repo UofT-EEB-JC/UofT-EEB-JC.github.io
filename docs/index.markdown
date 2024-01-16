@@ -12,6 +12,25 @@ layout: home
 
 Welcome to the webpage for the [UofT EEB](https://eeb.utoronto.ca/) JC! We discuss papers in ecology and evolution. All grad students, postdocs, and faculty in EEB are welcome and encouraged to attend and sign up to lead. Hope to see you at the next meeting! 
 
+## Winter 2024
+
+Friday 11:10am, ESC 1014
+
+| Date | Leader | Paper |
+|------|--------|-------|
+| Jan 26 | Alice Fairnie | [Did early shifts to bird pollination impose constrains on Salvia flower evolution?](https://doi.org/10.1093/evolut/qpac022)  |
+| Feb 2 | Hiatus | - |
+| Feb 9 | - | - |
+| Feb 16 | - | - |
+| Feb 23 | - | - |
+| Mar 1 | - | - |
+| Mar 8 | - | - |
+| Mar 15 | - | - |
+| Mar 22 | - | - |
+| Mar 29 | - | - |
+| Apr 5| - | - |
+| Apr 12 | - | - |
+
 ## Fall 2023
 
 Wednesday 11:10am, ESC 1014
