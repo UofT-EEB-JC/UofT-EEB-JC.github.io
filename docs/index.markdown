@@ -18,7 +18,7 @@ Friday 11:10am, ESC 1014
 
 | Date | Leader | Paper |
 |------|--------|-------|
-| Jan 26 | Alice Fairnie | [Did early shifts to bird pollination impose constrains on Salvia flower evolution?](https://doi.org/10.1093/evolut/qpac022)  |
+| Jan 26 | Alice Fairnie | [The lady's "slippery" orchid: functions of the floral trap and aphid mimicry in a hoverfly-pollinated *Phragmipedium* species in Brazil](https://doi.org/10.1093/aob/mcac140)  |
 | Feb 2 | Hiatus | - |
 | Feb 9 | - | - |
 | Feb 16 | - | - |
