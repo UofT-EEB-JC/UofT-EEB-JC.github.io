@@ -20,7 +20,7 @@ Friday 11:10am, ESC 1014
 |------|--------|-------|
 | Jan 26 | Alice Fairnie | [The lady's "slippery" orchid: functions of the floral trap and aphid mimicry in a hoverfly-pollinated *Phragmipedium* species in Brazil](https://doi.org/10.1093/aob/mcac140)  |
 | Feb 2 | Hiatus | - |
-| Feb 9 | - | - |
+| Feb 9 | Mathieu Videlier | [Integrating genomics and multivariate evolutionary quantitative genetics: a case study of constraints on sexual selection in *Drosophila serrata*](https://doi.org/10.1098/rspb.2021.1785) |
 | Feb 16 | - | - |
 | Feb 23 | - | - |
 | Mar 1 | - | - |
