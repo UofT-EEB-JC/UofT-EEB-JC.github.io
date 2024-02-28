@@ -22,8 +22,8 @@ Friday 11:10am, ESC 1014
 | Feb 2 | Hiatus | - |
 | Feb 9 | Mathieu Videlier | [Integrating genomics and multivariate evolutionary quantitative genetics: a case study of constraints on sexual selection in *Drosophila serrata*](https://doi.org/10.1098/rspb.2021.1785) |
 | Feb 16 | Mark Hibbins | [Evolution of the ancestral mammalian karyotype and syntenic regions](https://doi.org/10.1073/pnas.2209139119) |
-| Feb 23 | - | - |
-| Mar 1 | - | - |
+| Feb 23 | Reading week | - |
+| Mar 1 | Katie Maunder | [Pseudogenes act as a neutral reference for detecting selection in prokaryotic pangenomes](https://doi.org/10.1038/s41559-023-02268-6) |
 | Mar 8 | - | - |
 | Mar 15 | - | - |
 | Mar 22 | - | - |
