@@ -26,7 +26,7 @@ Friday 11:10am, ESC 1014
 | Mar 1 | Katie Maunder | [Pseudogenes act as a neutral reference for detecting selection in prokaryotic pangenomes](https://doi.org/10.1038/s41559-023-02268-6) |
 | Mar 8 | - | - |
 | Mar 15 | - | - |
-| Mar 22 | - | - |
+| Mar 22 | Mete Yuksel | [Patterns of recombination in snakes reveal a tug-of-war between PRDM9 and promoter-like features](https://www.science.org/doi/10.1126/science.adj7026) |
 | Mar 29 | - | - |
 | Apr 5| - | - |
 | Apr 12 | - | - |
