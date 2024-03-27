@@ -27,7 +27,7 @@ Friday 11:10am, ESC 1014
 | Mar 8 | - | - |
 | Mar 15 | - | - |
 | Mar 22 | Mete Yuksel | [Patterns of recombination in snakes reveal a tug-of-war between PRDM9 and promoter-like features](https://www.science.org/doi/10.1126/science.adj7026) |
-| Mar 29 | - | - |
+| Mar 29 | Mathieu Videlier | [Pleiotropic fitness effects across sexes and ages in the *Drosophila* genome and transcriptome](https://doi.org/10.1093/evolut/qpad163) |
 | Apr 5| - | - |
 | Apr 12 | - | - |
 
